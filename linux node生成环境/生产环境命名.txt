@@ -1,0 +1,9 @@
+node 服务
+  web-server	
+
+静态服务
+  markdet-server
+
+
+静态文件路劲：
+/www/website
